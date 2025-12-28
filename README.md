@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<rataatap-studio>
 <html lang="id">
 <head>
   <meta charset="UTF-8" />
